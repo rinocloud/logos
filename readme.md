@@ -11,7 +11,7 @@ svg folders for full list.
 
 ## block-purple.png
 
-<img src="/png/block-purple.png?raw=true" width="400" />
+<img src="/png/block-purple.png?raw=true" width="500" />
 
 ## square-purple.png
 
