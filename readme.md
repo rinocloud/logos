@@ -15,7 +15,7 @@ svg folders for full list.
 
 ## square-purple.png
 
-<img src="/png/square-purple.png?raw=true" width="170" />
+<img src="/png/square-purple.png?raw=true" width="150" />
 
 ## square-reversed.png
 
