@@ -3,22 +3,22 @@
 
 All the `.png` files are in the png folder and all the `.svg` files are in the svg folder.
 
-## block-purple.svg
+## block-purple.png
 
-![block-purple.svg](/svg/block-purple.svg?raw=true)
+![block-purple.png](/png/block-purple.png?raw=true)
 
-## block-white.svg
+## block-white.png
 
-![block-white.svg](/svg/block-white.svg?raw=true)
+![block-white.png](/png/block-white.png?raw=true)
 
-## square-purple.svg
+## square-purple.png
 
-![square-purple.svg](/svg/square-purple.svg?raw=true)
+![square-purple.png](/png/square-purple.png?raw=true)
 
-## square-reversed.svg
+## square-reversed.png
 
-![square-reversed.svg](/svg/square-reversed.svg?raw=true)
+![square-reversed.png](/png/square-reversed.png?raw=true)
 
-## square-white.svg
+## square-white.png
 
-![square-white.svg](/svg/square-white.svg?raw=true)
+![square-white.png](/png/square-white.png?raw=true)
